@@ -79,7 +79,7 @@ app/
 ### Installation
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/nelwaderushikesh27/todo-app.git
 
 # Open in Android Studio
 # Build and run
